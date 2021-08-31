@@ -7,3 +7,4 @@ then-> npx create-react-app tipcalulator -> cd tipcalculator -> replace src with
 
 - # if react install already
 - replace src and existing dedpendencies with it
+- -> npm start
